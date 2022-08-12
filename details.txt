@@ -1,0 +1,2 @@
+This solution was solved with Console project using C# language. With Netframework 4.7. Using Visual Studio 2019  as IDE of development.
+Have been created the simple Unit Tests
