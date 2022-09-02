@@ -1,0 +1,2 @@
+# LexicographicallyPermutation
+technical test
